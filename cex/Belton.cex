@@ -12,4 +12,5 @@ urn#urn:cite2:fufa:cex.2018a:BeltonData
 license#Creative Commons Attribution Share Alike
 
 #!ctscatalog
-urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:fufa:bomauldin.journal.dipl:#year/month/date#Belton Oscar Mauldin#Journal for 1860#diplomatic transcription##true#eng
