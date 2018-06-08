@@ -5,6 +5,7 @@
 	- CEX
 	- Define and document URNs
 	- CEX validation
+	- Bibliography
 1. Get some stuff in the README. [BdP]
 1. Transcription to CEX [BdP]
 1. PDF to JPGs [CWB]
