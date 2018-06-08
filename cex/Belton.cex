@@ -1,0 +1,15 @@
+
+// Library of texts demonstrating CTS
+
+// The pound sign "#" is used as a column divider.
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#An Integrated Publication of the Journal of Belton Oscar Mauldin from 1860
+urn#urn:cite2:fufa:cex.2018a:BeltonData
+license#Creative Commons Attribution Share Alike
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online
