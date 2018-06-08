@@ -28,3 +28,14 @@ We might want to talk about Branches…
 Note:
 
 Path to CEX directory: `/Users/briennadipietro/Documents/Belton\ Journal/BeltonOscarJourna/cex`
+
+## URN Notes
+
+URN for a Collection of Furman Classes
+`urn:cite2:fufa:fuclasses.v1:`
+
+Individual classes:
+
+`urn:cite2:fufa:fuclasses.v1:1`
+`urn:cite2:fufa:fuclasses.v1:1`
+`urn:cite2:fufa:fuclasses.v1:1`
