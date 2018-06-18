@@ -46,6 +46,8 @@ Individual classes:
 `urn:cite2:fufa:fuclasses.v1:1`
 `urn:cite2:fufa:fuclasses.v1:1`
 
-URNs for Images
+URNs for…
 
-`urn:cite2:fufolio:fuadvImg.v1:`
+Images: `urn:cite2:fufolio:fuadvImg.v1:`
+Pages: `urn:cite2:fufa:mauldinDiary.v1:`
+People: `urn:cite2:fufa:pers1860.v1:`
