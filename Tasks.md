@@ -14,7 +14,7 @@
 1. Furman Catalogue 1859-1860 to pTIFF, etc. [CWB]
 1. OCR Furman Catalog [CWB]
 1. Furman Catalog as collection of image-objects in `.cex` [CWB]
-1. Image collections into CEX [CWB]
+1. **Done** Image collections into CEX [CWB]
 1. Collections
 	- Page-sides: `Collections/pages.cex` [BdP]
 	- **Done** Images: `urn`,`label`,`rights` [CWB]
