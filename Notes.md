@@ -29,6 +29,12 @@ Note:
 
 Path to CEX directory: `/Users/briennadipietro/Documents/Belton\ Journal/BeltonOscarJourna/cex`
 
+## Normalized Edition
+
+- Expand all abbreviations
+- Replace `&` with `and`
+- Replace notes about unreadable text, etc. with `…` (Ellipsis-character: `⌥ ;` )
+
 ## URN Notes
 
 URN for a Collection of Furman Classes
@@ -39,3 +45,7 @@ Individual classes:
 `urn:cite2:fufa:fuclasses.v1:1`
 `urn:cite2:fufa:fuclasses.v1:1`
 `urn:cite2:fufa:fuclasses.v1:1`
+
+URNs for Images
+
+`urn:cite2:fufolio:fuadvImg.v1:`
