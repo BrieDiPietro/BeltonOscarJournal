@@ -51,3 +51,7 @@ URNs for…
 Images: `urn:cite2:fufolio:fuadvImg.v1:`
 Pages: `urn:cite2:fufa:mauldinDiary.v1:`
 People: `urn:cite2:fufa:pers1860.v1:`
+
+## Links for Further Analysis
+
+- [Sentiment Analysis](https://web.stanford.edu/class/cs124/lec/sentiment.pdf)
