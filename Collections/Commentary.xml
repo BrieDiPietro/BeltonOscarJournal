@@ -1,0 +1,24 @@
+?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>Brienna DiPietro</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished commentary by Steve Richardson on the journal of Belton Oscar Mauldin 1860</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from his commentary on the diplomatic edition</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+      </div>
+    </body>
+  </text>
+</TEI>
